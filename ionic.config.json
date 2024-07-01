@@ -1,0 +1,8 @@
+{
+  "name": "Shai.AI.Front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "134f478d"
+}
